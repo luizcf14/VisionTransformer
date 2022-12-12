@@ -3,6 +3,9 @@ Implementing the Vision Transformer paper from scratch for course project.
 
 Forked From https://github.com/junawaneshivani/VisionTransformer
 
+# Presentation (pt-Br)
+https://docs.google.com/presentation/d/1RsRGqMjHmnO_fLm3aUj6h0z6HxdyEqkTHxQ6k8ijVi8/edit?usp=sharing
+
 # References
 * Reference Paper: https://arxiv.org/abs/2010.11929
 * Attention Mechanism: https://towardsdatascience.com/all-you-need-to-know-about-attention-and-transformers-in-depth-understanding-part-1-552f0b41d021#8607
